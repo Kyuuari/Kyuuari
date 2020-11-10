@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Chester Cari</h1>
-<!--<h3 align="center">I am a passionate learner</h3> 
+<!--<h3 align="center">I am a passionate learner</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aykarus&label=Profile%20views&color=001e57&style=flat" alt="aykarus" /> </p>
 
