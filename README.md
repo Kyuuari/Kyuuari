@@ -6,13 +6,23 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aykarus&label=Profile%20views&color=001e57&style=flat" alt="aykarus" /> </p>
 
 
-- 🔭 I’m currently working on **Mobile Applications**
+- 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently learning **Swift, React and JS**
+- 🌱 I’m currently learning **how to be a better coder**
 
 - ⚡ Fun fact **Murmurations are the graceful, undulating patterns starlings create when they flock together in the sky. Scientists are still unsure how the birds coordinate their movements so quickly**
 
+---
 
+```javascript
+const Chester = {
+  code: ['Javascript', 'HTML', 'CSS', 'Swift', 'Python', 'Java', 'C#'],
+  tools: [React, React_Native, Node, Bootstrap, Xcode, Android_Studio],
+}
+```
+---
+[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/chestercari/)
+[![](https://img.shields.io/badge/-portfolio-2D4E00?style=flat-square)](https://aykarus.github.io/)
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aykarus&show_icons=true&theme=dark&locale=en" alt="aykarus" /></p>
 -->
