@@ -22,7 +22,7 @@ const Chester = {
 ```
 ---
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/chestercari/)
-[![](https://img.shields.io/badge/-portfolio-2D4E00?style=flat-square)](https://aykarus.github.io/)
+[![](https://img.shields.io/badge/-portfolio-2D4E00?style=flat-square)](https://kyuuariproject.studio/)
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aykarus&show_icons=true&theme=dark&locale=en" alt="aykarus" /></p>
 -->
