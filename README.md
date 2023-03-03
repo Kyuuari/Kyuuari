@@ -3,7 +3,7 @@
 <a href="#"><img align="right" src="https://github.com/Aykarus/Aykarus/blob/main/Assets/fox-banner.gif"/></a>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aykarus&label=Profile%20views&color=001e57&style=flat" alt="aykarus" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kyuuari&label=Profile%20views&color=001e57&style=flat" alt="kyuuari" /> </p>
 
 
 - 🔭 I’m currently working on **personal projects**
