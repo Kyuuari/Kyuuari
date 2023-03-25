@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **how to be a better coder**
 
-- ⚡ Fun fact **A group of ferrets is called a business**
+- ⚡ Fun fact **a group of ferrets is called a business**
 
 ---
 
