@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **how to be a better coder**
 
-- ⚡ Fun fact **Murmurations are the graceful, undulating patterns starlings create when they flock together in the sky. Scientists are still unsure how the birds coordinate their movements so quickly**
+- ⚡ Fun fact **A group of ferrets is called a business**
 
 ---
 
