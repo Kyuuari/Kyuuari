@@ -1,14 +1,14 @@
 # Chester Cari
 <a href="#"><img align="right" src="https://github.com/Aykarus/Aykarus/blob/main/Assets/fox-banner.gif"/></a>
-👋
+**👋 About Me**
+
+
 Hello! I'm Chester, I design and develop things for the web. My interests spans across various creative disciplines, including Web/App development, UI/UX design, animation, 3D modeling, and illustration.
 
 
 **🌱 Current Learning Goals**
 - WebGl / Animations / Threejs
-
 - React Native Skia
-
 - Vue
 
 ---
