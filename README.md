@@ -1,28 +1,33 @@
-<h1 align="center">Hi 👋, I'm Chester Cari</h1>
-<!--<h3 align="center">I am a passionate learner</h3> -->
+# Chester Cari
 <a href="#"><img align="right" src="https://github.com/Aykarus/Aykarus/blob/main/Assets/fox-banner.gif"/></a>
+👋
+Hello! I'm Chester, I design and develop things for the web. My interests spans across various creative disciplines, including Web/App development, UI/UX design, animation, 3D modeling, and illustration.
 
 
+**🌱 Current Learning Goals**
+- WebGl / Animations / Threejs
 
+- React Native Skia
 
-- 🔭 I’m currently working on **personal projects**
-
-- 🌱 I’m currently learning **how to be a better coder**
-
-- ⚡ Fun fact **a group of ferrets is called a business**
+- Vue
 
 ---
 
 ```javascript
 const Chester = {
-  code: ['Javascript', 'HTML', 'CSS', 'Swift', 'Python', 'Java', 'C#'],
-  tools: [React, React_Native, Node, Bootstrap, Xcode, Android_Studio],
+  code: ['TypeScript',JavaScript', 'HTML', 'CSS', 'Swift', 'Python', 'Java', 'C#'],
+  tools: [Next, React, React_Native, Node, Tailwind, Xcode, Android_Studio],
 }
 ```
 ---
-[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/chestercari/)
-[![](https://img.shields.io/badge/-portfolio-2D4E00?style=flat-square)](https://kyuuariproject.studio/)
-<!--
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aykarus&show_icons=true&theme=dark&locale=en" alt="aykarus" /></p>
--->
 
+
+[![image](https://img.shields.io/badge/Personal_Site-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kyuuariproject.studio/)
+
+
+<!-- ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) -->
+<!-- ![nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) -->
+<!-- ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) -->
+
+<!-- ![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) -->
+<!-- ![react-native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) -->
