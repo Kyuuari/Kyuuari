@@ -1,5 +1,5 @@
 # Chester Cari
-<a href="#"><img align="right" src="https://github.com/Aykarus/Aykarus/blob/main/Assets/fox-banner.gif"/></a>
+<a href="#"><img align="right" src="https://github.com/Kyuuari/Kyuuari/blob/main/Assets/spirit.gif"/></a>
 **👋 About Me**
 
 
