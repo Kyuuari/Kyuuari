@@ -1,5 +1,8 @@
 # Chester Cari
 <a href="#"><img align="right" src="https://github.com/Kyuuari/Kyuuari/blob/main/Assets/spirit.gif"/></a>
+
+
+
 **👋 About Me**
 
 
@@ -10,6 +13,14 @@ Hello! I'm Chester, I design and develop things for the web. My interests spans 
 - WebGl / Animations / Threejs
 - React Native Skia
 - Vue
+- Remix
+</div>
+     
+
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyuuari&layout=compact)](https://github.com/kyuuari/github-readme-stats) 
+
+  
 
 ---
 
@@ -23,11 +34,17 @@ const Chester = {
 
 
 [![image](https://img.shields.io/badge/Personal_Site-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kyuuariproject.studio/)
+![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![three](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![react-native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+<!-- ![affinity-designer](https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) -->
 
-
-<!-- ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) -->
-<!-- ![nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) -->
-<!-- ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) -->
-
-<!-- ![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) -->
-<!-- ![react-native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) -->
