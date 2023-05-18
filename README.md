@@ -1,7 +1,9 @@
 # Chester Cari
-<a href="#"><img align="right" src="https://github.com/Kyuuari/Kyuuari/blob/main/Assets/spirit.gif"/></a>
+<!-- <div href="#" align="center"><img src="https://github.com/Kyuuari/Kyuuari/blob/main/Assets/spirit.gif"/></div> -->
 
-
+<div href="#" align="center">
+     <img align="right" src="https://github.com/Kyuuari/Kyuuari/blob/main/Assets/spirit.gif"/>
+</div>
 
 **👋 About Me**
 
