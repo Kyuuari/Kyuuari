@@ -1,28 +1,28 @@
-# Chester Cari
+<h1 align="center">Chester Cari</h1>
 <!-- <div href="#" align="center"><img src="https://github.com/Kyuuari/Kyuuari/blob/main/Assets/spirit.gif"/></div> -->
 
 <div href="#" align="center">
-     <img align="right" src="https://github.com/Kyuuari/Kyuuari/blob/main/Assets/spirit.gif"/>
+     <img src="https://github.com/Kyuuari/Kyuuari/blob/main/Assets/spirit.gif"/>
 </div>
 
-**👋 About Me**
+<br/>
 
+<div align="center">
+     <div>
+          <h3>👋 About Me</h3>
+          <p>Hello! I'm Chester, I design and develop things for the web. My interests spans across various creative disciplines, including
+               Web/App development, UI/UX design, animation, 3D modeling, and illustration.
+          </p>
+     </div>
+     <div>
+          <h3>🌱 Current Learning Goals</h3>
+          <p>WebGl / Animations / Threejs</p>
+          <p>React Native Skia</p>
+          <p>Vue</p>
+          <p>Remix</p>
+     </div>
 
-Hello! I'm Chester, I design and develop things for the web. My interests spans across various creative disciplines, including Web/App development, UI/UX design, animation, 3D modeling, and illustration.
-
-
-**🌱 Current Learning Goals**
-- WebGl / Animations / Threejs
-- React Native Skia
-- Vue
-- Remix
 </div>
-     
-
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyuuari&layout=compact)](https://github.com/kyuuari/github-readme-stats) 
-
-  
 
 ---
 
@@ -34,7 +34,14 @@ const Chester = {
 ```
 ---
 
+<div align="center">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyuuari&layout=compact" />
+</div>
 
+<br/>
+
+<div align="center">
+     
 [![image](https://img.shields.io/badge/Personal_Site-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kyuuariproject.studio/)
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -49,4 +56,7 @@ const Chester = {
 ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 <!-- ![affinity-designer](https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) -->
+     
+     
+</div>
 
