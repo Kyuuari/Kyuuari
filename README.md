@@ -18,8 +18,8 @@
           <h3>🌱 Current Learning Goals</h3>
           <p>WebGl / Animations / Threejs</p>
           <p>React Native Skia</p>
-          <p>Vue</p>
           <p>Remix</p>
+          <p>Vue</p>
      </div>
 
 </div>
