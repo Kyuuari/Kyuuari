@@ -41,7 +41,7 @@ const Chester = {
     <img src="https://streak-stats.demolab.com?user=kyuuari&theme=sea-dark&hide_border=true&card_width=700&background=FDFAF3&ring=EECC8D&fire=EB5454" />
   </a>
   <a href="https://github.com/kyuuari">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyuuari&langs_count=10&layout=default&card_width=700&hide_border=true&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyuuari&layout=compact&card_width=699&hide_border=true" />
   </a>
 </p>
 </details>
