@@ -1,5 +1,5 @@
 <h1 align="center">Chester Cari</h1>
-<!-- <div href="#" align="center"><img src="https://github.com/Kyuuari/Kyuuari/blob/main/Assets/spirit.gif"/></div> -->
+<p align="center">✦ <i>Crafting Web Experiences through Imagination and Code</i> ✦</h3>
 
 <div href="#" align="center">
      <img src="https://github.com/Kyuuari/Kyuuari/blob/main/Assets/spirit.gif"/>
