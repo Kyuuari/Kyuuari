@@ -41,13 +41,6 @@ const Chester = {
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyuuari&layout=compact&card_width=699&hide_border=true" />
   </a>
 </p>
-</details>
-
-<!-- <div align="center">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyuuari&layout=compact&card_width=699&hide_border=true" />
-</div> -->
-
-<br/>
 
 <div align="center">
      
@@ -65,6 +58,14 @@ const Chester = {
 ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 <!-- ![affinity-designer](https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) -->
-     
-     
+    
 </div>
+</details>
+
+<!-- <div align="center">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyuuari&layout=compact&card_width=699&hide_border=true" />
+</div> -->
+
+<br/>
+
+
