@@ -1,29 +1,26 @@
 <h1 align="center">Chester Cari</h1>
 <p align="center">✦ <i>Crafting Web Experiences through Imagination and Code</i> ✦</h3>
 
-<div href="#" align="center">
+<!--<div href="#" align="center">
      <img src="https://github.com/Kyuuari/Kyuuari/blob/main/Assets/spirit.gif"/>
-</div>
+</div>-->
 
 <br/>
 
-<div align="center">
-     <div>
-          <h3>👋 About Me</h3>
-          <p>Hello! I'm Chester, I design and develop things for the web. My interests spans across various creative disciplines, including
-               Web/App development, UI/UX design, animation, 3D modeling, and illustration.
-          </p>
-     </div>
-     <div>
-          <h3>🌱 Current Learning Goals</h3>
-          <p>WebGl / Animations / Threejs</p>
-          <p>React Native Skia</p>
-          <p>Remix</p>
-          <p>Vue</p>
-     </div>
 
-</div>
+#### About Me
+          
+Hello! I'm Chester, I design and develop things for the web. My interests spans across various creative disciplines, including Web/App development, UI/UX design, animation, 3D modeling, and illustration.
+ 
 
+#### 🌱Current Learning Goals
+
+* WebGL / Animations / Threejs
+* React Native Skia
+* Remix
+* Vue
+
+<!--
 ---
 
 ```javascript
@@ -33,7 +30,7 @@ const Chester = {
 }
 ```
 ---
-
+-->
 <details>
      <summary>Details</summary>
 <p align="center">
@@ -71,4 +68,3 @@ const Chester = {
      
      
 </div>
-
