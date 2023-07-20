@@ -19,6 +19,7 @@ Hello! I'm Chester, I design and develop things for the web. My interests spans 
 * React Native Skia
 * Remix
 * Vue
+* Go
 
 <!--
 ---
